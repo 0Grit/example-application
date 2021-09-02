@@ -1,0 +1,5 @@
+
+image: zephyrprojectrtos/zephyr-build
+vscode:
+  extensions:
+    - marus25.cortex-debug
